@@ -7,3 +7,4 @@ pythonwhois == 2.4.3
 peewee==2.9.2
 pulsar-client==2.3.1
 adal
+boto=2.49.0
